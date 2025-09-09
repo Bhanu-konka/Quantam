@@ -1,0 +1,11 @@
+Day 8 of the 21-Day Quantum Computing Challenge with QuCode
+💡 Today’s Learnings: Single-qubit states & Quantum state visualization
+Single-qubit gates are the fundamental building blocks of hashtag#QuantumComputing. They act on a single qubit, modifying its hashtag#QuantumState, often through rotations on the Bloch sphere.
+✨ Key examples:
+Pauli gates (X, Y, Z): Similar to classical NOT gates but with unique quantum phase effects.
+Hadamard gate (H): Creates superposition states by moving a qubit to an equatorial position.
+Phase gates (S, T): Introduce controlled phase shifts to the state.
+🔄 For instance:
+The X-gate (NOT) flips |0⟩ to |1⟩, moving the state to the opposite pole.
+The H-gate (Hadamard) transforms |0⟩ into a balanced superposition of |0⟩ and |1⟩.
+hashtag#QuCode hashtag#QuantumComputing hashtag#QuantumStates hashtag#LearningChallenge hashtag#QuantumStateVisualization hashtag#QuantumMechanics hashtag#ContinuousLearning hashtag#21DayChallenge
