@@ -1,0 +1,19 @@
+day 10
+
+Summary: Quantum Computation Principles
+Quantum computing leverages unique quantum phenomena to process information in ways that are impossible for classical computers.
+
+Superposition and Quantum Parallelism 🚀
+At the heart of quantum computing is the principle of superposition. This allows a quantum bit, or qubit, to exist in a combination of both the 0 and 1 states at the same time.
+
+This ability leads to quantum parallelism. A quantum computer can perform a single operation on a superposition of states, effectively calculating the function for many different input values simultaneously. While this generates a wealth of information, there's a catch.
+
+Measurement and the Role of Algorithms
+When we measure a quantum system, its superposition collapses into a single classical state (either 0 or 1). This means that even though many calculations were performed, we only get one result.
+
+The primary goal of a quantum algorithm is to manage this process. By using other quantum effects, algorithms are designed to increase the probability that the state we measure is the correct or desired answer to our problem.
+
+Quantum Interference 🌊
+One of the key tools for achieving this is quantum interference. Similar to how waves can constructively (amplify) or destructively (cancel) interfere with each other, quantum states have phases that can be manipulated.
+
+Quantum interference allows an algorithm to control the probabilities of measurement outcomes. It effectively "cancels out" the incorrect answers and "amplifies" the correct ones, ensuring that when the measurement is finally made, the desired result is obtained with high probability. In essence, interference is the mechanism that filters the vast information from quantum parallelism to reveal the single, correct solution.
